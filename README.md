@@ -1,2 +1,2 @@
-# C--financial-applications
+# CSharp-financial-applications
 C# applications for financial engineering
